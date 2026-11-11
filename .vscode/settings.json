@@ -1,0 +1,14 @@
+{
+  "git.ignoredRepositoryWarning": true,
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/.next": true,
+    "**/dist": true
+  },
+  "git.untrackedChanges": "separate",
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/.next": true,
+    "**/dist": true
+  }
+}

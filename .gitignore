@@ -18,5 +18,6 @@ build/
 *.log
 npm-debug.log*
 
-# Editor
-.vscode/
+# Editor (keep settings.json but ignore personal configs)
+.vscode/*.code-snippets
+.vscode/launch.json
